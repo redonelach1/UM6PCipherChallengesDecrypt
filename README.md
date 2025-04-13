@@ -1,5 +1,5 @@
 # Context
-- We had a cipher challenge, topics were mainly maths that is related to cryptography : Polynomials, Prime Number, Some Probability, Group Theory, Arithmetics...
+- We had a cipher challenge, topics were mainly maths that is related to cryptography : Polynomials, Prime Numbers, Some Probability, Group Theory, Arithmetics...
 - We were given solutions after the challenge in an encrypted format (steganography) where we had to decrypt some images and extract images that had links to challenges solutions.
 
 - here is my implementation.
